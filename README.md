@@ -1,2 +1,2 @@
 # restaurant_website
-A simple restaurant website using HTML and CSS which contains location
+A simple restaurant website using HTML and CSS which contains embedded location
