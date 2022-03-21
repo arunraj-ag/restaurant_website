@@ -76,3 +76,8 @@ a{
     color: white;
     font-family: Open Sans;
 }
+
+.map{
+    padding-bottom: 100px;
+    border-radius: 5px;
+}
