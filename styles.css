@@ -48,8 +48,16 @@ main {
 }
 
 footer {
-    background-color: green;
-    height: 100px;
+    background-color: rgba(0, 0, 0, 0.319);
+    padding-top: 50px;
+    padding-bottom: 50px; 
+    color: white;
+    font-family: Open Sans;
+    text-align: center;
+}
+
+footer p{
+    font-size: 12px;
 }
 
 h1{
